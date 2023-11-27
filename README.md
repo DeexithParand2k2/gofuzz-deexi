@@ -30,7 +30,7 @@ Output is exported to a file and not displayed on the screen to avoid bloating a
 - [ ] Make a rate limiter
 - [ ] Add export type CSV
 - [ ] Add Permuation feature
-- [ ] Add POST method feature.
+- [x] Add POST method feature.
 
 and a lot more... 
 
